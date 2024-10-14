@@ -1,0 +1,2 @@
+run = "python flask_app.py"
+language = "python3"
